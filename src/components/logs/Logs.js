@@ -30,11 +30,7 @@ const Logs = () => {
       {!loading && logs.length === 0 ? (
         <p className="center"> No logs to show...</p>
       ) : (
-        logs.map(log => (
-          <li>
-            <LogItem log={log} key={log.id} />
-          </li>
-        ))
+        logs.map(log => <LogItem log={log} key={log.id} />)
       )}
     </ul>
   );
