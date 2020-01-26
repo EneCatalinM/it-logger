@@ -1,25 +1,32 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed network card in server 007",
+      "message": "Change the network card",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z"
+      "tech": "Sara Wilson",
+      "date": "2020-01-18T15:40:52.410Z",
+      "id": 1
     },
     {
       "id": 2,
-      "message": "Fixed hard drive on workstation 002",
+      "message": "fixed Make me laugh",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "tech": "Maria  Ioana",
+      "date": "2020-01-26T08:52:13.896Z"
     },
     {
-      "id": 3,
-      "message": "1122 wireless down",
+      "message": "test",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-01-25T10:39:08.506Z",
+      "id": 3
+    },
+    {
+      "message": "Sillicon Valey Problem",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z"
+      "tech": "Will Smith",
+      "date": "2020-01-25T10:39:20.698Z",
+      "id": 4
     }
   ],
   "techs": [
